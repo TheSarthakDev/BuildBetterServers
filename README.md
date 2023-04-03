@@ -1,4 +1,4 @@
-#BuildBetterServers
+# BuildBetterServers
 
 Are you tired of spending countless hours configuring your Minecraft server, only to be left with subpar performance and frustrating errors? Look no further than BuildBetterServers.
 
