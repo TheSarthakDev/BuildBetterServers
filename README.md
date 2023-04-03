@@ -8,5 +8,4 @@ Whether you're a seasoned server admin or just getting started, BuildBetterServe
 
 With BuildBetterServers, you can spend less time tinkering with server.properties and more time enjoying your Minecraft server. So why wait? Download our optimized configuration files today and take your server to the next level.
 
-<img src="[url](https://images.pixai.art/images/orig/5c06de2c-1c79-4323-a7b2-e6145778e8e8
-)" width="50%" height="50%">
+<img src="https://images.pixai.art/images/orig/5c06de2c-1c79-4323-a7b2-e6145778e8e8">
